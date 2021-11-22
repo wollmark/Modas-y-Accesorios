@@ -14,7 +14,7 @@ Modas y accesorios para hombres y mujeres
 </CENTER>
 <br>
 <br>
-<center> [img src="\Users\Enos\Desktop\modas.jpg"] </center>
+<center> [<img src="\Users\Enos\Desktop\modas.jpg">] </center>
   <CENTER> 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/VGD1qFhdUOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </CENTER>
