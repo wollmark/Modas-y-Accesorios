@@ -50,8 +50,12 @@ EL BOLSO
 Espacioso y amplio, el bolso shopper es perfecto para todos aquellos días en los que debes pasar muchas horas fuera de casa o, simplemente, para aquellos en los que vas a disfrutar de una sesión de compras con tus amigos. ¿El motivo? ¡Pues que puedes poner todo lo que se te ocurra en él! Desde una botella de agua hasta tu teléfono móvil pasando por el libro que estás leyendo en este momento. Sin duda, se trata del bolso ideal para poner el colofón a indumentarias de trabajo y de tiempo libre.
  <CENTER>
 <img src="\Users\Enos\Desktop\shopper2.jpg">
+  </CENTER>
 <br>
 <br>
+  <CENTER> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iVRKvcHNr5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+  </CENTER>
 <center>
  EL FOULARD
 </center>
