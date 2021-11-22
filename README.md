@@ -69,6 +69,9 @@ Dependiendo de tus gustos y necesidades, también puedes optar por un foulard o 
 <img src="\Users\Enos\Desktop\foular de hombre.jpg">
 <img src="\Users\Enos\Desktop\foular de mujer.jpg">
 <br>
+  <CENTER> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Nqa86U7h1bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </CENTER>
 <CENTER>
 EL SOMBRERO
 </CENTER>
