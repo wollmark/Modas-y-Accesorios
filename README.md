@@ -30,7 +30,8 @@ Uso , modo o costumbre que está en boga durante algún tiempo , o en determinad
 <br>
 La función de los accesorios de moda consiste en transformar y complementar un look impersonal en uno que marque personalidad. Más allá de que los accesorios se renuevan cada temporada, es importante seleccionar los accesorios de acuerdo a la situación, al momento del día y al estilo personal.
 <CENTER>
-<img src="\Users\Enos\Desktop\zimba.jpg">
+<img src="modas.jpg
+">
 <img src="\Users\Enos\Desktop\FFFFFFFFFA.jpg">
 </CENTER>
 <br>
